@@ -1,0 +1,1 @@
+<div id="toTop"><img src="static/img/maintop.png" width="46px"></div><!-- Back to top button -->
